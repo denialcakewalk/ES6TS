@@ -1,4 +1,4 @@
-#ES6TS
+# ES6TS
 
 npm init
 
@@ -8,7 +8,7 @@ This require webpack.config.js to be cofigured.
 
 Eg.
 
-  module.exports = {
+    module.exports = {
   
         entry: {
         
@@ -42,4 +42,4 @@ npm install --save-dev babel-loader
 
 npm install --save-dev babel-core
 
-run webpack on comonad prompt
+webpack (run it on comonad prompt)
