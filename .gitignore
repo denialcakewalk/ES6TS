@@ -1,0 +1,7 @@
+# Exclude DLL files.
+ES6TSApp/packages
+ES6TSApp/.vs
+ES6TSApp/ES6TSApp/obj
+ES6TSApp/ES6TSApp/bin
+ES6TSApp/ES6TSApp/node_modules
+#ES6TSApp/ES6TSApp/Web*.config
