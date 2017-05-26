@@ -1,7 +1,7 @@
 ﻿module.exports = {
     entry: {
-        //a: './Controller/Base1.js',
-        //b: './Controller/Register.js'
+        base     : './Controller/Base.js',
+        derived : './Controller/Derived.js'
     },
     output: {
         //path: path.join(__dirname, "dist"),
